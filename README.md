@@ -28,3 +28,5 @@ Check if it's running:
 ```bash
 curl localhost:8080/ping
 ```
+
+### Hello thank you for this oppportunity, however as I do not have a deep understanding of Golang, I had some trouble attempting this assignment. Hence, I have utilised the demo provided. Hope you guys would accept my assignment. :'). Thank You!
